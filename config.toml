@@ -1,4 +1,4 @@
-baseURL = "https://hugo-cards-site.netlify.com/"
+baseURL = "localhost:1313"
 languageCode = "en-us"
 title = "Hugo Cards"
 theme = "hugo-cards"
@@ -21,6 +21,8 @@ paginate = 6
 
   analytics = ""
   disqus = ""
+
+  custom_css = ["css/custom.css"]
 
   [params.copyright]
      name = "bool"

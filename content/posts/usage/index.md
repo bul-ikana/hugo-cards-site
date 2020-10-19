@@ -1,8 +1,7 @@
 ---
 title:  "Usage Guide"
-categories: jekyll update
 img: image-2.png
-categories: two
+categories: ["one", "two"]
 date: "2016-06-12"
 ---
 
